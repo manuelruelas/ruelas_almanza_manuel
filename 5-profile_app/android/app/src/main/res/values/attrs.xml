@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProfileTile">
+        <attr name="leadingIcon" format="reference"/>
+        <attr name="trailingIcon" format="reference"/>
+        <attr name="text" format="string"/>
+        <attr name="leadingIconSize" format="dimension"/>
+    </declare-styleable>
+</resources>
